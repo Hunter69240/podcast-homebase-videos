@@ -11,8 +11,8 @@ const HeroSection: React.FC = () => {
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl">
-                Discover Amazing
-                <span className="podcast-gradient-text block"> Podcast Stories</span>
+                <span className="podcast-gradient-text block">Atria Podcast Club</span>
+                Discover Amazing Stories
               </h1>
               <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
                 Listen to engaging conversations with thought leaders, experts, and fascinating personalities
